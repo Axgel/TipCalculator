@@ -30,11 +30,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/PF4iYwiFLsoT6mSOXj/giphy.gif' />
 
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2021] [Angel Li]
